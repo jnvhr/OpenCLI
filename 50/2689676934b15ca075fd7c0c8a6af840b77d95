@@ -1,0 +1,28 @@
+clis/instagram/profile.js
+  s_dc1efdf0d4ee75::t_65ee671b6b0f8c 2,15
+clis/instagram/_shared/profile-web-client.js
+  s_dc1efdf0d4ee75::t_e486f6eeff4d64 79
+  s_dc1efdf0d4ee75::t_656a8f098d9934 1-78,80-113,115,117-163
+  s_dc1efdf0d4ee75::t_da5de1262167d5 114,116
+clis/instagram/profile.test.js
+  s_dc1efdf0d4ee75::t_18109e80223cd1 1-3,5-121,125-133
+  s_dc1efdf0d4ee75::t_e486f6eeff4d64 4,122-124
+clis/instagram/_shared/read-response.test.js
+  s_dc1efdf0d4ee75::t_e486f6eeff4d64 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "502689676934b15ca075fd7c0c8a6af840b77d95",
+  "prompts": {},
+  "sessions": {
+    "s_dc1efdf0d4ee75": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8bd3288-a92e-452f-8aaf-62326294131e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Janvher Lucas Sarmiento <171470859+jnvhr@users.noreply.github.com>"
+    }
+  }
+}
