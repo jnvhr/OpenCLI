@@ -1,0 +1,32 @@
+clis/reddit/web-search.js
+  s_dc1efdf0d4ee75::t_11d16545345c51 10-35,71,74-76,81,109-113
+clis/reddit/listings.test.js
+  s_dc1efdf0d4ee75::t_482a5ad79ae087 68
+clis/reddit/html-fallback.test.js
+  s_dc1efdf0d4ee75::t_482a5ad79ae087 1-49,51-56,62-116,118-128
+  s_dc1efdf0d4ee75::t_1d82d54b25f31b 50,117
+  s_dc1efdf0d4ee75::t_0539ff82782b89 57-61
+clis/reddit/search.js
+  s_dc1efdf0d4ee75::t_11d16545345c51 151
+clis/reddit/api.js
+  s_dc1efdf0d4ee75::t_e30c52200221e9 122,124-138,140-162,164-194,196-198,200-223
+  s_dc1efdf0d4ee75::t_d59842790d9d12 123,139,163,195,199
+clis/reddit/subreddit.js
+  s_dc1efdf0d4ee75::t_77c4f9d3b279c6 2,35,38,40-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "987a099372c1971e96911ad1dbc12a7e7b2a4479",
+  "prompts": {},
+  "sessions": {
+    "s_dc1efdf0d4ee75": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8bd3288-a92e-452f-8aaf-62326294131e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Janvher Lucas Sarmiento <171470859+jnvhr@users.noreply.github.com>"
+    }
+  }
+}
